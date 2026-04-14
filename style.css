@@ -7,9 +7,24 @@ body{
     padding: 2em;
     color: black;
     border: solid 1px;
-}
+
 
 h2{
     text-align: center;
+ 
+
     color : rgb(0, 38, 255)
+}
+    button{
+        width:150px
+        height: 50px;
+        border-radius: 15%:
+
+    }
+
+    bottom a{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:red;
+    }
+
 }
